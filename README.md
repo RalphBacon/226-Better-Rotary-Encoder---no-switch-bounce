@@ -2,6 +2,7 @@
 An improved sketch to cater for switch bounce, courtesy of Marko Pinteric (https://www.pinteric.com/mped.html)  
 
 ![226 Thumbnail-Small](https://user-images.githubusercontent.com/20911308/134525958-87bc7b1f-ee97-4d58-beac-a21633858564.jpg)  
+Link to video: https://youtu.be/sQNPAsZKnDw  
 
 A superior Rotary Encoder sketch? And a new Multimeter requirement?  
 ► JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/cyt
@@ -22,7 +23,7 @@ https://youtu.be/J9cDEef0IbQ
 ► Demo Arduino Sketch in my GitHub  
 TBC
 
-► Technical paper by Marco Pinteric explaining his code 👍  
+► Technical paper by Marko Pinteric explaining his code 👍  
 https://www.pinteric.com/rotary.html
 
 ► Jack Ganssle's two-part article about switch bounce  
