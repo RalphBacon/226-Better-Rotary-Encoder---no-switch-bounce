@@ -5,7 +5,7 @@ An improved sketch to cater for switch bounce, courtesy of Marko Pinteric (https
 Link to video: https://youtu.be/sQNPAsZKnDw  
 
 A superior Rotary Encoder sketch? And a new Multimeter requirement?  
-► JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/cyt
+► JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/cgh
 
 00:00 Welcome Back  
 00:47 JLCPCB PCBs including PURPLE  
